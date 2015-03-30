@@ -1,0 +1,4 @@
+250 llet
+150 chocolate
+
+Menejar al foc 20 minuts
